@@ -4,6 +4,10 @@
   display: none;
 }
 
+#wall .tag-1 ~ div{
+  display: none;
+}
+
 
 
 
